@@ -1,0 +1,15 @@
+{
+  "master": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pc02app-master-175519-authRole",
+      "UnauthRoleArn": "arn:aws:iam::259837835286:role/amplify-pc02app-master-175519-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::259837835286:role/amplify-pc02app-master-175519-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pc02app-master-175519-deployment",
+      "UnauthRoleName": "amplify-pc02app-master-175519-unauthRole",
+      "StackName": "amplify-pc02app-master-175519",
+      "StackId": "arn:aws:cloudformation:us-east-1:259837835286:stack/amplify-pc02app-master-175519/be117a40-a7ad-11ec-94e6-0a409f56bb83",
+      "AmplifyAppId": "d22vvnev6ivhkz"
+    }
+  }
+}
